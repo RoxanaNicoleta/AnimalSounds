@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\animalSound\animalSound\bin\Debug\net8.0\animalSound.exe
+C:\Users\User\Desktop\animalSound\animalSound\bin\Debug\net8.0\animalSound.deps.json
+C:\Users\User\Desktop\animalSound\animalSound\bin\Debug\net8.0\animalSound.runtimeconfig.json
+C:\Users\User\Desktop\animalSound\animalSound\bin\Debug\net8.0\animalSound.dll
+C:\Users\User\Desktop\animalSound\animalSound\bin\Debug\net8.0\animalSound.pdb
+C:\Users\User\Desktop\animalSound\animalSound\obj\Debug\net8.0\animalSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\animalSound\animalSound\obj\Debug\net8.0\animalSound.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\animalSound\animalSound\obj\Debug\net8.0\animalSound.AssemblyInfo.cs
+C:\Users\User\Desktop\animalSound\animalSound\obj\Debug\net8.0\animalSound.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\animalSound\animalSound\obj\Debug\net8.0\animalSound.dll
+C:\Users\User\Desktop\animalSound\animalSound\obj\Debug\net8.0\refint\animalSound.dll
+C:\Users\User\Desktop\animalSound\animalSound\obj\Debug\net8.0\animalSound.pdb
+C:\Users\User\Desktop\animalSound\animalSound\obj\Debug\net8.0\animalSound.genruntimeconfig.cache
+C:\Users\User\Desktop\animalSound\animalSound\obj\Debug\net8.0\ref\animalSound.dll
